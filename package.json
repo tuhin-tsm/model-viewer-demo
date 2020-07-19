@@ -1,0 +1,18 @@
+{
+  "name": "model-viewer-demo",
+  "version": "0.0.1",
+  "description": "Example model viewer",
+  "main": "index.html",
+  "scripts": {
+    "start": "http-server . -p 8000"
+  },
+  "keywords": [
+    "3d",
+    "three"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  }
+}
